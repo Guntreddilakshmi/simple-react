@@ -1,4 +1,4 @@
-Experiment 2: Create Simple Components (Header, Footer, Content)
+ Create Simple Components (Header, Footer, Content)
 Objective: Understand how to create and organize functional components.  
 Task:Build `Header`, `Content`, and `Footer` components and render them in `App.js`.  
 Pseudo Code:
